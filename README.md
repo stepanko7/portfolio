@@ -48,7 +48,7 @@ If not, then run (Linux):
 
 
 
-## Visualization of methane adosprption isotherms and determination of optimal size for storage applications
+## Visualization of methane adsorption isotherms and determination of optimal size
 
 Next, folder
 
@@ -64,6 +64,8 @@ The data and figures were  recently published:
 
     S. Hlushak “Heat of adsorption, adsorption stress, and optimal storage of methane in slit and cylindrical carbon pores predicted by classical density functional theory” Phys. Chem. Chem. Phys. 20, 872--888 (2018)
 
+<img src="https://raw.githubusercontent.com/stepanko7/portfolio/master/adsorption_isotherms_visualization/_deliver_dens_heat.png" width="500px" height="389px"/>
+<img src="https://raw.githubusercontent.com/stepanko7/portfolio/master/adsorption_isotherms_visualization/_RPlot.png" width="500px" height="389px"/>
 
 
 
