@@ -36,7 +36,7 @@ Please, run
 to see how the algorithm works in 2D and to examine the produced plots:
 
 <img src="https://raw.githubusercontent.com/stepanko7/portfolio/master/zero_temperature_string/_final.png" width="500px" height="389px"/>
-<img src="https://raw.githubusercontent.com/stepanko7/portfolio/master/zero_temperature_string/_fep1d.png" width="500px" height="389px"/>
+<img src="https://raw.githubusercontent.com/stepanko7/portfolio/master/zero_temperature_string/_fep1d.png" width="400px" height="311px"/>
 
 
 You should have Python2.7, numpy, scipy and matplotlib installed.
@@ -70,7 +70,7 @@ The data and figures were recently published in:
     S. Hlushak “Heat of adsorption, adsorption stress, and optimal storage of methane in slit and cylindrical carbon pores predicted by classical density functional theory” Phys. Chem. Chem. Phys. 20, 872--888 (2018)
 
 <img src="https://raw.githubusercontent.com/stepanko7/portfolio/master/adsorption_isotherms_visualization/_deliver_dens_heat.png" width="500px" height="389px"/>
-<img src="https://raw.githubusercontent.com/stepanko7/portfolio/master/adsorption_isotherms_visualization/_DRplot.png" width="300px" height="165px"/>
+<img src="https://raw.githubusercontent.com/stepanko7/portfolio/master/adsorption_isotherms_visualization/_DRplot.png" width="400px" height="250px"/>
 
 
 
