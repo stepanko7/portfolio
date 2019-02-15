@@ -70,7 +70,7 @@ The data and figures were recently published in:
     S. Hlushak “Heat of adsorption, adsorption stress, and optimal storage of methane in slit and cylindrical carbon pores predicted by classical density functional theory” Phys. Chem. Chem. Phys. 20, 872--888 (2018)
 
 <img src="https://raw.githubusercontent.com/stepanko7/portfolio/master/adsorption_isotherms_visualization/_deliver_dens_heat.png" width="500px" height="389px"/>
-<img src="https://raw.githubusercontent.com/stepanko7/portfolio/master/adsorption_isotherms_visualization/_DRplot.png" width="400px" height="250px"/>
+<img src="https://raw.githubusercontent.com/stepanko7/portfolio/master/adsorption_isotherms_visualization/_DRplot.png" width="300px" height="165px"/>
 
 
 
@@ -104,13 +104,15 @@ are presented in the following figure:
 <img src="https://raw.githubusercontent.com/stepanko7/portfolio/master/convolutions_example/_convolution_1.png" width="320px" height="240px"/>
 
 
+
 The convoluted functions in the 2D-case
-and the corresponding result are presented in the
-following three figures:
 
 <img src="https://raw.githubusercontent.com/stepanko7/portfolio/master/convolutions_example/_rho_2d.png" width="320px" height="240px"/>
 
 <img src="https://raw.githubusercontent.com/stepanko7/portfolio/master/convolutions_example/_w3_2d.png" width="320px" height="240px"/>
 
+and the corresponding result
+
 <img src="https://raw.githubusercontent.com/stepanko7/portfolio/master/convolutions_example/_conv_2d.png" width="320px" height="240px"/>
 
+are presented in the above three figures.
