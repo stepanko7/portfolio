@@ -35,11 +35,8 @@ Please, run
 
 to see how the algorithm works and to examine the produced plots:
 
-![alt text](https://raw.githubusercontent.com/stepanko7/portfolio/master/zero_temperature_string/_final.png){ height=50% width=50% }
-
-<img src="https://raw.githubusercontent.com/stepanko7/portfolio/master/zero_temperature_string/_final.png" width="300px" height="300px"/>
-
-![alt text](https://raw.githubusercontent.com/stepanko7/portfolio/master/zero_temperature_string/_fep1d.png){ height=50% width="50% }
+<img src="https://raw.githubusercontent.com/stepanko7/portfolio/master/zero_temperature_string/_final.png" width="500px" height="389px"/>
+<img src="https://raw.githubusercontent.com/stepanko7/portfolio/master/zero_temperature_string/_fep1d.png" width="500px" height="389px"/>
 
 
 You should have Python2.7, numpy, scipy and matplotlib installed.
