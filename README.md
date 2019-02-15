@@ -1,7 +1,7 @@
-# portfolio
+# Portfolio
 
 
-## zero_temperature_string
+## Python implementaion of Zero Temperature String method 2 and 3 dimensions
 
 ﻿In folder
 
@@ -44,7 +44,7 @@ If not, then run (Linux):
 
 
 
-## adsorption_isotherms_visualization
+## Visualization of methane adosprption isotherms and determination of optimal size for storage applications
 
 Next, folder
 
@@ -58,15 +58,12 @@ of the 1D arrays to produce 2D array, etc.
 Please run the script to produce the plots.
 The data and figures were  recently published:
 
-S. Hlushak “Heat of adsorption, adsorption stress, and optimal
-storage of methane in slit and cylindrical carbon pores predicted
-by classical density functional theory”
-Phys. Chem. Chem. Phys. 20, 872--888 (2018)
+    S. Hlushak “Heat of adsorption, adsorption stress, and optimal storage of methane in slit and cylindrical carbon pores predicted by classical density functional theory” Phys. Chem. Chem. Phys. 20, 872--888 (2018)
 
 
 
 
-## convolutions_example
+## Performing convolutions of 1D and 2D function in Fortran
 
 Finally, in the folder
 
