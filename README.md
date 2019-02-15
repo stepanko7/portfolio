@@ -108,7 +108,6 @@ are presented in the following figure:
 The convoluted functions in the 2D-case
 
 <img src="https://raw.githubusercontent.com/stepanko7/portfolio/master/convolutions_example/_rho_2d.png" width="320px" height="240px"/>
-
 <img src="https://raw.githubusercontent.com/stepanko7/portfolio/master/convolutions_example/_w3_2d.png" width="320px" height="240px"/>
 
 and the corresponding result
