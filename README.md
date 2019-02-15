@@ -98,3 +98,19 @@ with the plot.py script:
 I have also supplied precompiled fftw library for linking in Linux.
 You could also check the plot.py script for more Python code.
 
+The convoluted functions and the result in the 1D-case
+are presented in the following figure:
+
+<img src="https://raw.githubusercontent.com/stepanko7/portfolio/master/convolutions_example/_convolution_1.png" width="320px" height="240px"/>
+
+
+The convoluted functions in the 2D-case
+and the corresponding result are presented in the
+following three figures:
+
+<img src="https://raw.githubusercontent.com/stepanko7/portfolio/master/convolutions_example/_rho_2d.png" width="320px" height="240px"/>
+
+<img src="https://raw.githubusercontent.com/stepanko7/portfolio/master/convolutions_example/_w3_2d.png" width="320px" height="240px"/>
+
+<img src="https://raw.githubusercontent.com/stepanko7/portfolio/master/convolutions_example/_conv_2d.png" width="320px" height="240px"/>
+
