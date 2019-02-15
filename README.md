@@ -37,6 +37,8 @@ to see how the algorithm works and to examine the produced plots:
 
 ![alt text](https://raw.githubusercontent.com/stepanko7/portfolio/master/zero_temperature_string/_final.png){ height=50% width=50% }
 
+<img src="https://raw.githubusercontent.com/stepanko7/portfolio/master/zero_temperature_string/_final.png" width="300px" height="300px"/>
+
 ![alt text](https://raw.githubusercontent.com/stepanko7/portfolio/master/zero_temperature_string/_fep1d.png){ height=50% width="50% }
 
 
