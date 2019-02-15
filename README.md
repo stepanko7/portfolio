@@ -35,9 +35,9 @@ Please, run
 
 to see how the algorithm works and examine the plots:
 
-![alt text](https://raw.githubusercontent.com/stepanko7/portfolio/master/zero_temperature_string/_final.png =250x250)
+<img src=https://raw.githubusercontent.com/stepanko7/portfolio/master/zero_temperature_string/_final.png" width="48">
 
-![alt text](https://raw.githubusercontent.com/stepanko7/portfolio/master/zero_temperature_string/_fep1d.png =250x250)
+<img src=https://raw.githubusercontent.com/stepanko7/portfolio/master/zero_temperature_string/_fep1d.png" width="48">
 
 
 You should have Python2.7, numpy, scipy and matplotlib installed.
